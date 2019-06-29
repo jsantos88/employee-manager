@@ -6,13 +6,13 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.6.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 	<groupId>com.django.test.employees.api</groupId>
 	<artifactId>employees-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-RELEASE</version>
 	<name>empolyees-api</name>
-	<description>Django test</description>
+	<description>Luizalabs test</description>
 
 	<properties>
 		<java.version>1.8</java.version>
