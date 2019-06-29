@@ -11,10 +11,7 @@ mvn clean package
 java -jar target/employees-api-1.0.0-RELEASE.jar
 ```
 
-## Executar suíte de teste
-```
-mvn test
-```
+# Como usar a API:
 
 ## Cadastrar um novo employee
 ```
